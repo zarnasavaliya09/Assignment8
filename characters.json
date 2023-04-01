@@ -1,0 +1,59 @@
+[
+    {
+      "firstname": "Govind Patel",
+      "lastname": "Patel",
+      "age": 18,
+      "gender": "Male",
+      "occupation": "Student",
+      "interests": "Cricket"
+    },
+    {
+      "firstname": "Ishaan ",
+      "lastname": "Bhatt",
+      "age": 19,
+      "gender": "Male",
+      "occupation": "Student",
+      "interests": "Cricket"
+    },
+    {
+      "firstname": "Omi ",
+      "lastname": "Roy",
+      "age": 19,
+      "gender": "Male",
+      "occupation": "Student",
+      "interests": "Politics"
+    },
+    {
+      "firstname": "Ali ",
+      "lastname": "Khan",
+      "age": 20,
+      "gender": "Male",
+      "occupation": "cricketer",
+      "interests": "Politics"
+    },
+    {
+      "firstname": "Geeta ",
+      "lastname": "Patel",
+      "age": 20,
+      "gender": "Female",
+      "occupation": "Teacher",
+      "interests": "Reading"
+    },
+    {
+      "firstname": "Bittumama",
+      "lastname": "Patel",
+      "age": 35,
+      "gender": "Male",
+      "occupation": "Businessmen",
+      "interests": "Writting"
+    },
+    {
+      "firstname": "Vidya",
+      "lastname": "Shah",
+      "age": 22,
+      "gender": "Female",
+      "occupation": "Singer",
+      "interests": "Poet"
+    }
+  ]
+  
